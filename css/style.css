@@ -6,7 +6,7 @@
     
 }
 body{
-    background-image: linear-gradient(white, black);
+    background-image: linear-gradient(white, salmon);
 }
 
 /*navbar*/
@@ -108,12 +108,12 @@ footer{
                              
 }
 body{
-    background-image: linear-gradient(white, green);
+    background-image: linear-gradient(white, rgb(159, 159, 7));
 
 }
 .main-600 :hover{
     padding:10px;
-    transform: rotate(120deg);
+    
 }
 
 
